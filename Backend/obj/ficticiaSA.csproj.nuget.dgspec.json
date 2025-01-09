@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\backend\\ficticiaSA.csproj": {}
+    "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\Backend\\ficticiaSA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\backend\\ficticiaSA.csproj": {
+    "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\Backend\\ficticiaSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\backend\\ficticiaSA.csproj",
+        "projectUniqueName": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\Backend\\ficticiaSA.csproj",
         "projectName": "ficticiaSA",
-        "projectPath": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\backend\\ficticiaSA.csproj",
+        "projectPath": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\Backend\\ficticiaSA.csproj",
         "packagesPath": "C:\\Users\\frant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\backend\\obj\\",
+        "outputPath": "C:\\Users\\frant\\OneDrive\\Documentos\\Cursos\\FicticiaSAC#\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frant\\AppData\\Roaming\\NuGet\\NuGet.Config"

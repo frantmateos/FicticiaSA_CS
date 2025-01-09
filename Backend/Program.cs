@@ -6,7 +6,7 @@ using users.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<userContext>(options =>
-    options.UseMySql("Server=localhost;Database=users;User=root;Password=Tomas1927;Port=3306;",
+    options.UseMySql("Server=x;Database=X;User=x;Password=x;Port=x;",
                      new MySqlServerVersion(new Version(8, 0, 33))));
 
 builder.Services.AddScoped<IUserRepo, UserRepo>();
